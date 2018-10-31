@@ -1,0 +1,13 @@
+#tools-translate {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(100, 61, 61, 0.5);
+  z-index: 10000;
+  color: #fff;
+  padding: 4px;
+}
+
+.tools-translate-block {
+  outline: 5px solid rgba(49, 153, 228, 0.8);
+}
